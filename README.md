@@ -7,5 +7,5 @@ The course provides a comprehensive study of how to approach programming problem
 <img align="right" width="10%" src="images/course-image.png">
 
 # Lecture Slides
-     +  [Syllabus](Slides/0.CourseSyllabus.pdf)
-     +  [Introduction](Slides/1.Introduction.pdf)
+   +  [Syllabus](Slides/0.CourseSyllabus.pdf)
+   +  [Introduction](Slides/1.Introduction.pdf)
