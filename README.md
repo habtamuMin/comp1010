@@ -9,3 +9,4 @@ The course provides a comprehensive study of how to approach programming problem
 # Lecture Slides
 +  [Syllabus](Slides/0.CourseSyllabus.pdf)
 +  [Introducton](Slides/1.Introduction.pdf)
++  [Variables and Data types](Slides/2.PythonVariables.pdf)
